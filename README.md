@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Tini369
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me altinnuha637@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
